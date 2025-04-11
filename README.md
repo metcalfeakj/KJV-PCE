@@ -1,6 +1,6 @@
 # 📖 KJV-PCE.sqlite
 
-**KJV-PCE.sqlite** is a normalized, queryable SQLite database containing the full text of the **King James Version (Pure Cambridge Edition)** of the Bible. It is structured for clarity, flexibility, and performance, making it ideal for application development, data analysis, or serious Bible study.
+**KJV-PCE.sqlite** is a normalised, queryable SQLite database containing the full text of the **King James Version (Pure Cambridge Edition)** of the Bible. It is structured for clarity, flexibility, and performance, making it ideal for application development, data analysis, or serious Bible study.
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 🗃️ Schema Overview
 
-This database uses a normalized schema with four main tables and two views:
+This database uses a normalised schema with four main tables and two views:
 
 ### 📚 Tables
 
