@@ -140,8 +140,9 @@ The **King James Bible (PCE)** text is in the **public domain**. This structured
 
 ---
 
-## ✝️ Soli Deo Gloria
+## ⚔️ Proverbs 27:17
 
-If this project helps you to study, teach, or share the word of God, it has fulfilled its purpose.
+**Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.**
+This project exists to encourage scriptural refinement through fellowship, study, and open tools.
 
 ---
