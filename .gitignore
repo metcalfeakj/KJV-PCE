@@ -5,4 +5,5 @@
 *.swp
 .DS_Store
 Thumbs.db
-
+pdf_output
+latex_output
