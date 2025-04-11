@@ -142,7 +142,8 @@ The **King James Bible (PCE)** text is in the **public domain**. This structured
 
 ## ⚔️ Proverbs 27:17
 
-**Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.**
+> **Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.**
+
 This project exists to encourage scriptural refinement through fellowship, study, and open tools.
 
 ---
