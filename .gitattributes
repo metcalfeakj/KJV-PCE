@@ -1,0 +1,4 @@
+*.md text
+*.sql text
+*.sqlite binary
+
